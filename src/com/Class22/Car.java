@@ -1,7 +1,9 @@
 package com.Class22;
 
 public class Car {
-	 public static String make="Toyota";
+	
+	
+	 	public static String make="Toyota";
 	    String color;//declaring instance variable
 	    String model;
 	    int doors;
@@ -13,6 +15,8 @@ public class Car {
 //	    }
 	    
 	    public static void main(String[] args) {
+	    	
+	    	
 	        
 	        Car obj = new Car();
 	        System.out.println(obj.color);

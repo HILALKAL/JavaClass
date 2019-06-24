@@ -1,6 +1,6 @@
 package com.Class21;
 
-import com.class20.AccessModifiers;
+import com.Class20.AccessModifiers;
 
 public class TestAccessModifiers {
 
